@@ -1,0 +1,26 @@
+.count-mod {
+    display:flex;
+    gap:1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock {
+    gap:1rem;
+    padding-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 1rem
+}
+
+.timer-label {
+    font-family: math;
+    font-size: xx-large;
+}
